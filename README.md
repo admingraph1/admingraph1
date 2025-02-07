@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋</h1> 
-<h3 align="center">A passionate frontend developer</h3> 
 
-- 🔭 I’m currently working 
+- 💻 I work using: https://camo.githubusercontent.com/4557bdd709ad5e4b7c0d7f529f512dbd13d872160fe163e610c5fe4ef5f48dce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d706c6173746963266c6f676f3d76697375616c2d73747564696f2d636f6465
 
 - 🌱 I’m currently learning
 
