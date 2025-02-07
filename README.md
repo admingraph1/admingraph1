@@ -4,11 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=admingraph1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=admingraph1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="admingraph1's GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admingraph1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="admingraph1's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admingraph1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
